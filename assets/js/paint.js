@@ -50,7 +50,7 @@ function getProductInfo(partNumber) {
             break;   
         case 'pn4':
             price = '$13.42'
-            colorName = 'Solid Red'            
+            colorName = 'Bright Red'            
             updatePrice(colorName, price)   
             break;   
         case 'pn5':
@@ -65,17 +65,17 @@ function getProductInfo(partNumber) {
             break;   
         case 'pn7':
             price = '$8.22'
-            colorName = 'Solid Cyan'       
+            colorName = 'Medium Blue'       
             updatePrice(colorName, price)        
             break;   
         case 'pn8':
             price = '$11.99'
-            colorName = 'Solid Purple'      
+            colorName = 'Light Purple'      
             updatePrice(colorName, price)         
             break;   
         case 'pn9':
             price = '$14.99'
-            colorName = 'Solid Yellow'                       
+            colorName = 'Bright Yellow'                       
             updatePrice(colorName, price)   
             break;   
           default:              
